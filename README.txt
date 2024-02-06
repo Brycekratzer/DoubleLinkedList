@@ -69,8 +69,6 @@ while traversing paths.
 
 TESTING:
 
-
-ChatGPT
 While creating the program, Mason Vail's CircuitTracerTester class played a crucial role in testing. You can find this class as a text file in the directory. 
 The class underwent testing with around 12 files containing errors and 12 files with the correct data. Its main job was to check if the program showed the 
 right results when used with each file. These files were of different sizes and presented various situations that could cause the program to crash if not handled correctly. 
